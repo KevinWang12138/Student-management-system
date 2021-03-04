@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<System> 
+  <student> 
+    <id>100</id>  
+    <name>zhangsan</name>  
+    <age>18</age> 
+  </student>  
+  <student> 
+    <id>101</id>  
+    <name>lisi</name>  
+    <age>19</age> 
+  </student>  
+  <student>
+    <id>20195456</id>
+    <name>wangqianming</name>
+    <age>19</age>
+  </student>
+</System>
